@@ -1,0 +1,21 @@
+.basicInfo{
+    color: navy;
+    text-align: center;
+}
+.proPic {
+    width: 15%;
+}
+.committeeSection {
+    border: solid navy 8px;
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+.legislation {
+    border: solid maroon 8px;
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    flex-wrap: wrap;
+}
